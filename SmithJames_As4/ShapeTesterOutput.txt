@@ -1,0 +1,14 @@
+
+Before Sorting:
+Area of the Circle is 78.53981633974483
+Area of the Square is 16.0
+Area of the Rectangle is 50.0
+Area of the Circle is 12.566370614359172
+Area of the Square is 100.0
+
+After Sorting:
+Area of the Circle is 12.566370614359172
+Area of the Circle is 78.53981633974483
+Area of the Rectangle is 50.0
+Area of the Square is 16.0
+Area of the Square is 100.0
